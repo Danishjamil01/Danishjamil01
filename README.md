@@ -1,5 +1,6 @@
+![logo](https://github.com/Danishjamil01/Danishjamil01/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Danish Jamil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Ai developer from India</h3>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishjamil01&label=Profile%20views&color=0e75b6&style=flat" alt="danishjamil01" /> </p>
 
